@@ -1,4 +1,4 @@
-/* Created and coded by Abhilash Narayan */
+/* Created and coded by dejuk */
 
 var quiz = {
     "JS": [
