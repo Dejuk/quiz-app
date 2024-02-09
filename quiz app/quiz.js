@@ -1,4 +1,4 @@
-/* Created and coded by dejuk */
+/* Created and coded by dejuk  for learning purpose for beginner */
 
 var quiz = {
     "JS": [
